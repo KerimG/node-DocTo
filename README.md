@@ -8,3 +8,15 @@ This two obvious drawbacks.
 
 1. You must have Microsoft Word/Excel installed on the system.
 1. Due to point 1, this tool isn't cross-platform.
+
+
+## Usage
+
+Currently, only the features to convert `.doc(x)` files to `.pdf` is implemented.
+
+```js
+const { wordToPdf } = require('node-docto');
+
+wordToPdf('./input.docx', './output.pdf', {deleteOriginal: true})
+  .then(stdout => console.log(stdout));
+```
