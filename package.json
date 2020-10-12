@@ -1,23 +1,23 @@
 {
-	"name": "node-docto",
-	"version": "0.1.0",
-	"description": "A node wrapper for the DocTo tool to convert Word and Excel tools using the installed Microsoft Word and Excel programs.",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [
-		"word",
-		"pdf",
-		"convert",
-		"xls",
-		"xlsx",
-		"xlsm"
-	],
-	"author": "Kerim Güney <kerim@gueney.io> (https://gueney.io)",
-	"license": "MIT",
-	"devDependencies": {
-		"eslint": "^7.11.0",
-		"prettier": "^2.1.2"
-	}
+  "name": "node-docto",
+  "version": "0.1.0",
+  "description": "A node wrapper for the DocTo tool to convert Word and Excel tools using the installed Microsoft Word and Excel programs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "word",
+    "pdf",
+    "convert",
+    "xls",
+    "xlsx",
+    "xlsm"
+  ],
+  "author": "Kerim Güney <kerim.gueney@taskforce-it.de> (https://taskforce-it.de)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "prettier": "^2.1.2"
+  }
 }
