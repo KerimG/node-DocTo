@@ -15,5 +15,9 @@
 		"xlsm"
 	],
 	"author": "Kerim Güney <kerim@gueney.io> (https://gueney.io)",
-	"license": "MIT"
+	"license": "MIT",
+	"devDependencies": {
+		"eslint": "^7.11.0",
+		"prettier": "^2.1.2"
+	}
 }
