@@ -26,3 +26,19 @@ const { wordToPdf } = require('node-docto');
 wordToPdf('./input.docx', './output.pdf', {deleteOriginal: true})
   .then(stdout => console.log(stdout));
 ```
+
+## API Reference
+
+```
+wordToPdf(source, output[, options])
+
+parameters:
+  source: path to source .doc or .docx file
+  output: path and filename of the output .pdf file
+  options: object with options
+
+returns:
+  Promise:
+    reject: ({err, stderr})
+    resolve: (stdout)
+```
