@@ -4,7 +4,7 @@
 
 This package's development is sponsored by Task Force IT-Consulting GmbH.
 
-[![Task Force IT-Consulting Logo](https://taskforce-it.de/wp-content/themes/taskforce-it/taskforceit/img/task-force-logo.png)](https://taskforce-it.de)
+[![Task Force IT-Consulting Logo](./assets/task-force-logo.png)](https://taskforce-it.de)
 
 ## Motivation 
 
