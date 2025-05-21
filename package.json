@@ -3,6 +3,7 @@
   "version": "0.3.2",
   "description": "A node wrapper for the DocTo tool to convert Word and Excel tools using the installed Microsoft Word and Excel programs.",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
